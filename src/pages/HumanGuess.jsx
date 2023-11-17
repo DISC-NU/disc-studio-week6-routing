@@ -32,7 +32,6 @@ function HumanGuess() {
     <div className="App">
       <header className="App-header">
         <p>Guessing game</p>
-        <p>{ans}</p>
         <input
             id='term'
             type='text'
